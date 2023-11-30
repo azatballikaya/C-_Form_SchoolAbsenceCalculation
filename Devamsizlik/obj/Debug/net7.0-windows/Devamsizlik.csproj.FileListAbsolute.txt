@@ -1,0 +1,16 @@
+C:\Users\Azat\Desktop\Devamsizlik\bin\Debug\net7.0-windows\Devamsizlik.exe
+C:\Users\Azat\Desktop\Devamsizlik\bin\Debug\net7.0-windows\Devamsizlik.deps.json
+C:\Users\Azat\Desktop\Devamsizlik\bin\Debug\net7.0-windows\Devamsizlik.runtimeconfig.json
+C:\Users\Azat\Desktop\Devamsizlik\bin\Debug\net7.0-windows\Devamsizlik.dll
+C:\Users\Azat\Desktop\Devamsizlik\bin\Debug\net7.0-windows\Devamsizlik.pdb
+C:\Users\Azat\Desktop\Devamsizlik\obj\Debug\net7.0-windows\Devamsizlik.Form1.resources
+C:\Users\Azat\Desktop\Devamsizlik\obj\Debug\net7.0-windows\Devamsizlik.csproj.GenerateResource.cache
+C:\Users\Azat\Desktop\Devamsizlik\obj\Debug\net7.0-windows\Devamsizlik.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Azat\Desktop\Devamsizlik\obj\Debug\net7.0-windows\Devamsizlik.AssemblyInfoInputs.cache
+C:\Users\Azat\Desktop\Devamsizlik\obj\Debug\net7.0-windows\Devamsizlik.AssemblyInfo.cs
+C:\Users\Azat\Desktop\Devamsizlik\obj\Debug\net7.0-windows\Devamsizlik.csproj.CoreCompileInputs.cache
+C:\Users\Azat\Desktop\Devamsizlik\obj\Debug\net7.0-windows\Devamsizlik.dll
+C:\Users\Azat\Desktop\Devamsizlik\obj\Debug\net7.0-windows\refint\Devamsizlik.dll
+C:\Users\Azat\Desktop\Devamsizlik\obj\Debug\net7.0-windows\Devamsizlik.pdb
+C:\Users\Azat\Desktop\Devamsizlik\obj\Debug\net7.0-windows\Devamsizlik.genruntimeconfig.cache
+C:\Users\Azat\Desktop\Devamsizlik\obj\Debug\net7.0-windows\ref\Devamsizlik.dll
